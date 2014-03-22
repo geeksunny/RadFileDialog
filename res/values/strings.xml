@@ -1,0 +1,4 @@
+<resources>
+    <string name="dialog_icon_placeholder">\?</string>
+    <string name="dialog_label_placeholder">Filename</string>
+</resources>
